@@ -1,0 +1,8 @@
+#
+# Klasa: Zimbabwe
+# powierzchnia państw świata
+#
+
+- { name: "Cecil", population: 20000 }
+- { name: "Hwange", population: 25000 }
+- { name: "Matobo", population: 28000 }
